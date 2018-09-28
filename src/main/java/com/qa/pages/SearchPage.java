@@ -4,6 +4,6 @@ public class SearchPage {
 
 	public void searchPage()
 	{
-		System.out.println("searhckahsdhak pagehdadja");
+		System.out.println("search page");
 	}
 }
